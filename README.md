@@ -1,7 +1,7 @@
 # Vector-Autoregression-VAR-Analysis
 Vector Autoregression (VAR) Analysis of U.S. Monetary Policy
 
-# Vector Autoregression (VAR) Analysis of U.S. Monetary Policy
+## Vector Autoregression (VAR) Analysis of U.S. Monetary Policy
 *Advanced Quantitative Methods and Machine Learning in Finance*
 
 ## **Business Question**
