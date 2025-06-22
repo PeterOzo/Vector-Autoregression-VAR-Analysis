@@ -96,18 +96,15 @@ The stationarity analysis reveals important characteristics of these macroeconom
 
 ![image](https://github.com/user-attachments/assets/73181df5-9e8d-4317-a71a-12151ba2efe3)
 
+
 ![image](https://github.com/user-attachments/assets/1f50759d-aba8-4ac5-8066-0eee3edbf979)
+
 
 ![image](https://github.com/user-attachments/assets/f1aed375-b84b-4973-b5ff-284088016796)
 
+
 ![image](https://github.com/user-attachments/assets/14388506-ec70-4a25-bffd-50ddaf226b57)
 
-
-
-
-
-
-**[INSERT VAR MODEL DIAGNOSTIC PLOTS HERE]**
 
 **Model Performance Statistics:**
 - **Number of Observations**: 187 quarters
@@ -154,15 +151,16 @@ The monetary policy equation indicates substantial responsiveness to unemploymen
 
 ![image](https://github.com/user-attachments/assets/1dc7b271-50fd-4337-9cdb-573b19db4105)
 
+
 ![image](https://github.com/user-attachments/assets/3b602d6c-0381-4f11-b634-c20d576044f8)
 
+
 ![image](https://github.com/user-attachments/assets/21456125-9db0-410d-aefc-ad113a2806a3)
+
 
 ![image](https://github.com/user-attachments/assets/f64b2b88-b8dc-4ee0-9123-cba095b92167)
 
 
-
-**[INSERT RESIDUAL DIAGNOSTIC PLOTS HERE]**
 
 **Time Series Properties:**
 - **Zero Mean**: All residual series oscillate around zero ✓
@@ -190,7 +188,7 @@ The monetary policy equation indicates substantial responsiveness to unemploymen
 
 ![image](https://github.com/user-attachments/assets/20ebbbe7-f233-4115-becf-f462e60b351f)
 
-**[INSERT FORECAST COMPARISON PLOTS HERE]**
+
 
 **Forecast Performance by Variable:**
 
@@ -229,8 +227,6 @@ The monetary policy equation indicates substantial responsiveness to unemploymen
 
 ![image](https://github.com/user-attachments/assets/759f1714-bd5a-4341-b4a6-24ce2dfe563c)
 
-
-**[INSERT GRANGER CAUSALITY RESULTS TABLE HERE]**
 
 **Significant Causal Relationships (p < 0.05):**
 | **Cause → Effect** | **p-value** | **Optimal Lag** | **Economic Interpretation** |
